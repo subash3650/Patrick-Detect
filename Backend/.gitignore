@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Temporary & Log Files
+*.log
+*.pot
+*.mo
+.Python
+instance/
+.webassets-cache
+.scrapy
+docs/_build/
+target/
+.ipynb_checkpoints
+.pytype/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.tmp
+temp/
+tmp/
+
+# Audio/Data files (if not needed in repo)
+*.wav
+*.webm
+*.mp3
+*.flac
+temp_*.wav
+temp_*.webm
+
+# Model files (optional - uncomment if not tracking model)
+# parkinsons_model.pkl
+
+# Data files (optional - uncomment if not tracking data)
+# parkinsons.data
+# *.data
+# *.csv (if excluding data files)
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3

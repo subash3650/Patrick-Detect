@@ -1,0 +1,19 @@
+# Build & Logs
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Temp files
+temp/
+tmp/
+*.tmp
+
+# Environment
+.env
+
+# OS
+Thumbs.db
